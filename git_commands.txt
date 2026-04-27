@@ -15,3 +15,11 @@ git status
   14 git status                                                                                                      
   15 git restore testing.py                                                                                          
   16 git status
+
+   git status                                                                                                      
+  19 git add .\git_commands.txt                                                                                      
+  20 git commit -m "add file"                                                                                        
+  21 git status                                                                                                      
+  22 git remote add origin https://github.com/Shivzade/github-for-devops-workshop.git                                
+  23 git remote -v                                                                                                   
+  24 git push origin master                                                                                          
