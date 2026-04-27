@@ -22,4 +22,6 @@ git status
   21 git status                                                                                                      
   22 git remote add origin https://github.com/Shivzade/github-for-devops-workshop.git                                
   23 git remote -v                                                                                                   
-  24 git push origin master                                                                                          
+  24 git push origin master
+
+This is some new changes
